@@ -18,7 +18,7 @@ int num1,num2,num3;
    }
     if(num3>=num1 && num3>=num2)
     {
-        cout<<"the largest number is number 3"<<n3;
+        cout<<"the largest number is number 3"<<num3;
         
     }
     return 0;
